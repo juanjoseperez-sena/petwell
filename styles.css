@@ -1,3 +1,4 @@
+/*Diseño Rama Main*/
 body {
     background-color: white;
     color: #242424;
@@ -65,4 +66,27 @@ h1, h2, h3, h4, h5, h6 {
 
 .bg-dark {
     background-color: #242424 !important;
+}
+
+body {
+    background-color: white;
+    color: #242424;
+}
+
+.bg-light {
+    background-color: #f7f7f7 !important;
+}
+
+.img-fluid {
+    max-width: 100%;
+    height: auto;
+}
+
+a {
+    text-decoration: none;
+    color: inherit;
+}
+
+a:hover {
+    text-decoration: underline;
 }
